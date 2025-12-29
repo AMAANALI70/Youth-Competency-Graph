@@ -58,7 +58,7 @@ This project goes beyond simple to-do lists by intelligently mapping skills to t
 
 ## 🚀 Getting Started
 
-Follow these steps to set up the project locally.
+Follow these steps to set up the project locally:
 
 ### Prerequisites
 - Node.js (v18+ recommended)
